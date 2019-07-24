@@ -1,0 +1,26 @@
+No.;Port;Host Time;Event;Status;Raw Value;Raw Val. Mean;Raw Val. StdDev;Distance[m];Dist. Mean;Dist. StdDev
+1;COM12;2019-07-20 20:27:11;Session Indication;Ok;FeiMaster:-717.844(000ffc70)   FeiSlave:692.656(00000370)  FeiFactor:-0.853   c:-0.591   RSSI:-110;;;;;
+2;COM12;2019-07-20 20:27:18;RangingStatus;Ok;3350;3350.000;0.000;151.582;151.582;0.000
+3;COM12;2019-07-20 20:27:19;Session Indication;Ok;FeiMaster:-591.906(000ffd10)   FeiSlave:617.094(00000310)  FeiFactor:-0.853   c:-0.526   RSSI:-110;;;;;
+4;COM12;2019-07-20 20:27:26;RangingStatus;Ok;3327;3338.000;16.279;150.481;151.031;0.779
+5;COM12;2019-07-20 20:27:27;Session Indication;Ok;FeiMaster:-642.281(000ffcd0)   FeiSlave:642.281(00000330)  FeiFactor:-0.853   c:-0.548   RSSI:-110;;;;;
+6;COM12;2019-07-20 20:27:34;RangingStatus;Ok;3291;3322.000;29.749;148.880;150.314;1.359
+7;COM12;2019-07-20 20:27:35;Session Indication;Ok;FeiMaster:-692.656(000ffc90)   FeiSlave:667.469(00000350)  FeiFactor:-0.853   c:-0.569   RSSI:-110;;;;;
+8;COM12;2019-07-20 20:27:42;RangingStatus;Ok;3330;3324.000;24.563;150.659;150.400;1.123
+9;COM12;2019-07-20 20:27:43;Session Indication;Ok;FeiMaster:-692.656(000ffc90)   FeiSlave:642.281(00000330)  FeiFactor:-0.853   c:-0.548   RSSI:-109;;;;;
+10;COM12;2019-07-20 20:27:50;RangingStatus;Ok;3330;3325.000;21.418;150.638;150.448;0.978
+11;COM12;2019-07-20 20:27:51;Session Indication;Ok;FeiMaster:-717.844(000ffc70)   FeiSlave:743.031(000003b0)  FeiFactor:-0.853   c:-0.634   RSSI:-110;;;;;
+12;COM12;2019-07-20 20:27:58;RangingStatus;Ok;3306;3322.000;20.756;149.642;150.313;0.935
+13;COM12;2019-07-20 20:27:59;Session Indication;Ok;FeiMaster:-743.031(000ffc50)   FeiSlave:667.469(00000350)  FeiFactor:-0.853   c:-0.569   RSSI:-110;;;;;
+14;COM12;2019-07-20 20:28:07;RangingStatus;Ok;3344;3325.000;20.644;151.291;150.453;0.930
+15;COM12;2019-07-20 20:28:07;Session Indication;Ok;FeiMaster:-743.031(000ffc50)   FeiSlave:617.094(00000310)  FeiFactor:-0.853   c:-0.526   RSSI:-110;;;;;
+16;COM12;2019-07-20 20:28:15;RangingStatus;Ok;3375;3331.000;25.937;152.645;150.727;1.158
+17;COM12;2019-07-20 20:28:15;Session Indication;Ok;FeiMaster:-692.656(000ffc90)   FeiSlave:692.656(00000370)  FeiFactor:-0.853   c:-0.591   RSSI:-110;;;;;
+18;COM12;2019-07-20 20:28:23;RangingStatus;Ok;3310;3329.000;25.303;149.780;150.621;1.128
+19;COM12;2019-07-20 20:28:23;Session Indication;Ok;FeiMaster:-717.844(000ffc70)   FeiSlave:768.219(000003d0)  FeiFactor:-0.853   c:-0.655   RSSI:-110;;;;;
+20;COM12;2019-07-20 20:28:31;RangingStatus;Ok;3321;3328.000;24.000;150.340;150.593;1.067
+21;COM12;2019-07-20 20:28:31;Session Indication;Ok;FeiMaster:-692.656(000ffc90)   FeiSlave:717.844(00000390)  FeiFactor:-0.853   c:-0.612   RSSI:-110;;;;;
+22;COM12;2019-07-20 20:28:39;RangingStatus;Ok;3313;3324.000;23.144;149.936;150.428;1.024
+23;COM12;2019-07-20 20:28:39;Session Indication;Ok;FeiMaster:-717.844(000ffc70)   FeiSlave:667.469(00000350)  FeiFactor:-0.853   c:-0.569   RSSI:-110;;;;;
+24;COM12;2019-07-20 20:28:47;RangingStatus;Ok;3277;3319.000;27.570;148.271;150.207;1.230
+25;COM12;2019-07-20 20:28:52;Session Indication;Error;;;;;;
